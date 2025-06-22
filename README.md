@@ -118,11 +118,11 @@ Kubernetes
 
 
 
-✉️ Email: akshya.yad@gmail.com
+✉️ Email: akshya.yadav.tech@gmail.com
 
 
 
-💼 LinkedIn: linkedin.com/in/yad/
+💼 LinkedIn: linkedin.com/in/akshyayad/
 
 Drop me a line—I’d love to chat about code, coffee, or collabs! ☕️
 
