@@ -1,149 +1,31 @@
-🌟 Welcome to My GitHub, I'm Akshya! 🚀
+# Hi there, I'm Akshya 👋
 
-Hey there! I'm a passionate software developer who loves crafting scalable backends and stunning mobile apps. With a flair for solving tricky problems, I build clean, efficient, and innovative solutions that make an impact. My heart beats for APIs, Flutter apps, and cloud architectures! 💻✨
+I'm a passionate **Full Stack Mobile App developer** specializing in robust, scalable, and user-friendly mobile and backend solutions.
 
-🌈 What I'm diving into: Microservices with FastAPI, Advanced Flutter animations, GraphQL-powered APIs, and serverless microservices! 🌐
+- 🔭 Currently working on: [flutter_chunked_upload](https://github.com/yourusername/flutter_chunked_upload) – a flexible, backend-agnostic chunked file upload package for Flutter.
+- 🌱 Learning: Advanced backend architectures, FastAPI, and cloud deployment.
+- 💬 Ask me about: Python FastAPI, Flutter, Dart, REST APIs, and open source.
+- 📫 How to reach me: [akshya.yadav.tech@gmail.com](mailto:akshya.yadav.tech@gmail.com) | [LinkedIn](https://www.linkedin.com/in/akshyayad/)
+- ⚡ Fun fact: I love building tools that make developers' lives easier!
 
+## 🛠️ Tech Stack
 
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
-🚀 What I Bring to the Table
+## 🚀 Featured Projects
 
+- [flutter_chunked_upload](https://github.com/Akshya107/flutter_chunked_upload): Flexible, production-ready chunked upload for Flutter.
+- [FastAPI Microservice Service: Product Service](https://github.com/Akshya107/product-service): Product Service using FastAPI of e-commerce app
 
+## 📈 GitHub Stats
 
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshya107&show_icons=true&theme=radical)
 
+---
 
-Backend Wizardry 🧙‍♂️: Crafting high-performance APIs with FastAPI, Node.js, and Express.js.
-
-
-
-Mobile Magic 📱: Building sleek, user-friendly apps using Flutter and ARKit for immersive experiences.
-
-
-
-System Architect 🏗️: Designing scalable microservices and event-driven systems that hum.
-
-
-
-Open Source Advocate 🌍: Contributing to gems like flutter_chunked_upload and mentoring devs.
-
-
-
-🛠️ My Tech Arsenal
-
-Languages 💬
-
-
-
-
-
-Python
-
-
-
-JavaScript
-
-
-
-Dart
-
-Frameworks ⚙️
-
-
-
-
-
-FastAPI
-
-
-
-Express.js
-
-
-
-Flutter
-
-Tools 🔧
-
-
-
-
-
-Docker
-
-
-
-Firebase
-
-
-
-GraphQL
-
-
-
-Git
-
-Databases 🗄️
-
-
-
-
-
-PostgreSQL
-
-
-
-MongoDB
-
-Cloud & DevOps ☁️
-
-
-
-
-
-AWS
-
-
-
-CI/CD
-
-
-
-Kubernetes
-
-
-
-📬 Connect with Me
-
-
-
-
-
-✉️ Email: akshya.yadav.tech@gmail.com
-
-
-
-💼 LinkedIn: linkedin.com/in/akshyayad/
-
-Drop me a line—I’d love to chat about code, coffee, or collabs! ☕️
-
-
-
-🎉 A Bit About Me
-
-
-
-
-
-🎶 I code to lo-fi beats and debug with anime OSTs in the background.
-
-
-
-☕ Coffee is my co-founder, keeping me fueled for late-night coding sessions.
-
-
-
-💡 Always hunting for the next big idea to disrupt the tech world! 🔍
-
-
-
-“Great code is like a great story—it captivates, flows, and leaves a mark.” 📖
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
