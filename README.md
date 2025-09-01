@@ -2,7 +2,9 @@
 
 I'm a passionate **Full Stack Mobile App developer** specializing in robust, scalable, and user-friendly mobile and backend solutions.
 
-- 🔭 Currently working on: [flutter_chunked_upload](https://github.com/yourusername/flutter_chunked_upload) – a flexible, backend-agnostic chunked file upload package for Flutter.
+- 🔭 Published packages:  
+  - [flutter_chunked_upload](https://pub.dev/packages/flutter_chunked_upload) – a flexible, backend-agnostic chunked file upload package for Flutter.  
+  - [flutter_geofence_manager](https://pub.dev/packages/flutter_geofence_manager) – a powerful and easy-to-use geofencing manager for Flutter.
 - 🌱 Learning: Advanced backend architectures, FastAPI, and cloud deployment.
 - 💬 Ask me about: Python FastAPI, Flutter, Dart, REST APIs, and open source.
 - 📫 How to reach me: [akshya.yadav.tech@gmail.com](mailto:akshya.yadav.tech@gmail.com) | [LinkedIn](https://www.linkedin.com/in/akshyayad/)
