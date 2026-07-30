@@ -1,47 +1,26 @@
 # Hi there, I'm Akshya 👋
 
-🚀 **Software Engineer | Mobile + Backend Specialist | FastAPI & Flutter**
+🚀 **Senior Mobile Engineer | Android Native (Kotlin) & Flutter | Mobile Architecture & Engineering Leadership**
 
-I build **scalable backend systems** and **high-performance mobile applications** with a strong focus on clean architecture, performance, and developer experience.
-
----
-
-## 🌐 Portfolio
-
-<div align="center">
-
-### 📱 Mobile Engineering
-
-<a href="https://mobile.akshya.site" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Mobile%20Portfolio-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-### ⚙️ Backend Engineering
-
-<a href="https://backend.akshya.site" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Backend%20Portfolio-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</a>
-
-</div>
+I build **scalable mobile systems** — from native Android roots to Flutter architecture — with strong backend fluency in **FastAPI** to own the full API contract when needed.
 
 ---
 
 ## 🧠 What I Do
 
-* 📱 Build **production-grade Flutter apps** with scalable architecture
-* ⚙️ Design **high-performance backend systems** using FastAPI
-* 🔐 Implement **secure authentication (JWT, role-based access)**
-* 🧩 Develop **microservices-based architectures**
-* 🚀 Optimize APIs for **performance & scalability**
+* 📱 Architect **production-grade Android Native & Flutter apps** at scale (10M+ users)
+* 🏗️ Own **mobile architecture** across multiple concurrent products
+* 👥 Lead and mentor **engineering teams** (10+ engineers)
+* 🔐 Implement **secure authentication (JWT, OAuth2, RBAC)** across mobile & backend
+* ⚙️ Design **FastAPI microservices** that power mobile clients at scale
+* 🚀 Optimize for **performance, crash-free rates, and CI/CD velocity**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,firebase,git,postgresql,docker" />
+  <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,androidstudio,firebase,python,fastapi,postgresql,docker,git" />
 </p>
 
 ---
@@ -49,19 +28,16 @@ I build **scalable backend systems** and **high-performance mobile applications*
 ## 🚀 Featured Projects
 
 ### 📦 flutter_chunked_upload
-
 [Flexible, backend-agnostic chunked file upload system for Flutter apps.](https://github.com/Akshya107/flutter_chunked_upload)
 
 ---
 
 ### 📍 flutter_geofence_manager
-
 [Powerful and easy-to-use geofencing manager for Flutter applications.](https://pub.dev/packages/flutter_geofence_manager)
 
 ---
 
 ### ⚙️ Product Service (FastAPI Microservice)
-
 [Production-style microservice with scalable architecture for e-commerce systems](https://github.com/Akshya107/product-service)
 
 ---
@@ -85,6 +61,7 @@ I build **scalable backend systems** and **high-performance mobile applications*
 
 * 📧 Email: [akkiyadav107@gmail.com](mailto:akkiyadav107@gmail.com)
 * 💼 LinkedIn: https://www.linkedin.com/in/akshyayad/
+* 🐙 GitHub: https://github.com/Akshya107
 
 ---
 
@@ -92,6 +69,4 @@ I build **scalable backend systems** and **high-performance mobile applications*
 
 I enjoy building tools that **make developers faster and more efficient** 🚀
 
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
